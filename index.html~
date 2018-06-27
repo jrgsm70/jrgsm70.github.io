@@ -6,7 +6,11 @@
 		
 			<img src="MeCorbata.png">
 			<p> Soy mexicano. Tengo tres pasiones: me encanta el sistema operativo GNU/Linux, 
-			las matemáticas y las ciencias de la naturaleza. Mi profesión es la docencia tanto a nivel básico como superior.</p>
+			las matemáticas y las ciencias de la naturaleza. Tengo dos profesiones que complemento entre sí:</p>
+			<ul>
+				<li>Docente de educación básica y superior</li>
+				<li>Ingeniería</li>
+			</ul>
 			<p> Donde yo vivo hay una gran diversidad de especies tanto animales como vegetales
 			 pero el avasallador avance de lo que supuestamente denominamos 'progreso' las está aniquilando.
 			 En mérito de lo anterior es que formo parte de Green Peace y aunque no tengo mucho tiempo para
@@ -19,19 +23,9 @@
 			  <p>Decidí estudiar este curso porque el acumular conocimiento jamás te engorda, por el contrario,
 			  te robustece. Además es importante para mi vocación ambientalista emplear tecnologías que nos hagan
 			  libres para reflexionar. Los datos del curso fueron los siguientes:</p>
-			<ul>
-			<li>Nombre del curso: Introducción a Linux como entorno de desarrollo de sistemas</li> 
-			<li>Módulo 0. Presentación y organización del curso.</li>
-			<li>Módulo 1. Instalación del sistema operativo Ubuntu</li>
-			<li>Módulo 2. La interfaz gráfica de Ubuntu.</li>
-			<li>Módulo 3. Introducción al sistema operativo UNIX.</li>
-			<li>Módulo 4. El sistema de archivos de UNIX.</li>
-			<li>Módulo 5. La interfaz de usuario de UNIX.</li>
-			<li>Módulo 6. Introducción a la programación Shell.</li>
-			<li>Módulo 7. Administración de sistema en Ubuntu.</li>
-			<li>Módulo 8. Entorno básico de herramientas de desarrollo en Ubuntu.</li>
-			<li>Módulo 9. Proyecto final.</li>
+			<ul><li> </li>
+			<li> Curriculum somero</li>
 			
-			</ul>
+		</ul>
 	</body>
 </html>
